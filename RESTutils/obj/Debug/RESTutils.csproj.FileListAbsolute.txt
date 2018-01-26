@@ -1,0 +1,7 @@
+D:\3rd_year\Client\Project3\RESTutils\bin\Debug\RESTutils.dll
+D:\3rd_year\Client\Project3\RESTutils\bin\Debug\RESTutils.pdb
+D:\3rd_year\Client\Project3\RESTutils\bin\Debug\Newtonsoft.Json.dll
+D:\3rd_year\Client\Project3\RESTutils\bin\Debug\Newtonsoft.Json.xml
+D:\3rd_year\Client\Project3\RESTutils\obj\Debug\RESTutils.csprojResolveAssemblyReference.cache
+D:\3rd_year\Client\Project3\RESTutils\obj\Debug\RESTutils.dll
+D:\3rd_year\Client\Project3\RESTutils\obj\Debug\RESTutils.pdb
